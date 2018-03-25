@@ -8,14 +8,7 @@ package hw7;
 import java.util.LinkedList;
  
 public class DirectoryTree {
-	// TODO nothing here is implemented, these are just empty
-	// shells so the compiler doesn't complain
-	// Implement private members, public methods,
-	// and private helper methods, etc., as needed,
-	// in order to get the behavior described on the pset
-	// You will want to maintain two private members:
-	// the root and the current directory.
-	
+
 	public class Node<String>{
 		String data;
 		LinkedList<Node<String>> children;
