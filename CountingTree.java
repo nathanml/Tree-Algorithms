@@ -6,12 +6,6 @@
 
 package hw7;
 
-/**
- * Binary search tree, containing items of type String,
- * which allows duplicates by having a counter in each node
- * (rather than inserting duplicate nodes)
- *
- */
 public class CountingTree {
 
 	private class TreeNode {
